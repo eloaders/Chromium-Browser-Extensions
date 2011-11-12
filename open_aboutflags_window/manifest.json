@@ -1,0 +1,18 @@
+{
+   "background_page": "background.html",
+   "browser_action": {
+      "default_icon": "icon_19_19.png",
+      "default_title": "Open about:flags window"
+   },
+   "description": "Access the about:flags window directly from the toolbar",
+   "icons": {
+      "128": "icon_128_128.png",
+      "16": "icon_16_16.png",
+      "32": "icon_32_32.png",
+      "48": "icon_48_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC5nrogSErDkyVy8uPssCGzIcOU2+HJ6d4k7q8o+j+xiAsFhyKR4DeguOpSioOLBDRo7R50d4RFi6ogY9yVk7l64fkMQ8KRkQZUfy7Znds9nKqtZ92Nyeq5+eeQGa7aR5mp56GNK4Zlff4QK+UmKsMZXXMOEaTMOD+7P1LUpJSjsQIDAQAB",
+   "name": "About flags",
+   "permissions": [ "tabs" ],
+   "version": "1"
+}
